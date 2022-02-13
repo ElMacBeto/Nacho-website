@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Nacho-website/static/css/main.d73989ce.css",
+    "main.js": "/Nacho-website/static/js/main.6ad46fec.js",
+    "static/js/787.3c7466a7.chunk.js": "/Nacho-website/static/js/787.3c7466a7.chunk.js",
+    "static/media/ecografia-pierna-2.png": "/Nacho-website/static/media/ecografia-pierna-2.76c6af362b1c4550b7f3.png",
+    "static/media/ecografo.png": "/Nacho-website/static/media/ecografo.1e1e80c4fd1d7f9035a7.png",
+    "static/media/ecografia-embarazada.png": "/Nacho-website/static/media/ecografia-embarazada.d06b3390c2f3c900bc96.png",
+    "static/media/02.jpg": "/Nacho-website/static/media/02.bc00e33ad07335d665a9.jpg",
+    "static/media/main3.jpg": "/Nacho-website/static/media/main3.ddb54e4fe0afc3ad72f7.jpg",
+    "static/media/ecografo1.png": "/Nacho-website/static/media/ecografo1.8fb1c0c633a90661f81b.png",
+    "static/media/pie.jpg": "/Nacho-website/static/media/pie.2aba14069e4dfe693172.jpg",
+    "static/media/01.jpg": "/Nacho-website/static/media/01.7367425d6a9f5d57816f.jpg",
+    "static/media/main2.jpg": "/Nacho-website/static/media/main2.a3d46e8fa3546d10b1d9.jpg",
+    "static/media/03.jpg": "/Nacho-website/static/media/03.bfeafdb36fbe3f2bbb6e.jpg",
+    "static/media/dolor-de-espalda.png": "/Nacho-website/static/media/dolor-de-espalda.fbe876ab9768db95dd8c.png",
+    "static/media/icon-logo-v1.png": "/Nacho-website/static/media/icon-logo-v1.5ad580652ec932158ef5.png",
+    "static/media/whatsapp.png": "/Nacho-website/static/media/whatsapp.7707d93d8f690d81514d.png",
+    "static/media/calendario.png": "/Nacho-website/static/media/calendario.24c974015dcc7b624f54.png",
+    "index.html": "/Nacho-website/index.html",
+    "main.d73989ce.css.map": "/Nacho-website/static/css/main.d73989ce.css.map",
+    "main.6ad46fec.js.map": "/Nacho-website/static/js/main.6ad46fec.js.map",
+    "787.3c7466a7.chunk.js.map": "/Nacho-website/static/js/787.3c7466a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d73989ce.css",
+    "static/js/main.6ad46fec.js"
+  ]
+}
