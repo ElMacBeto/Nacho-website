@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nacho-website/static/css/main.f5267ff2.css",
-    "main.js": "/Nacho-website/static/js/main.bc6e2a19.js",
+    "main.css": "/Nacho-website/static/css/main.0f443761.css",
+    "main.js": "/Nacho-website/static/js/main.b8f2221c.js",
     "static/js/787.3c7466a7.chunk.js": "/Nacho-website/static/js/787.3c7466a7.chunk.js",
     "static/media/ecografia-pierna-2.png": "/Nacho-website/static/media/ecografia-pierna-2.76c6af362b1c4550b7f3.png",
     "static/media/ecografo.png": "/Nacho-website/static/media/ecografo.1e1e80c4fd1d7f9035a7.png",
@@ -18,12 +18,12 @@
     "static/media/whatsapp.png": "/Nacho-website/static/media/whatsapp.7707d93d8f690d81514d.png",
     "static/media/calendario.png": "/Nacho-website/static/media/calendario.24c974015dcc7b624f54.png",
     "index.html": "/Nacho-website/index.html",
-    "main.f5267ff2.css.map": "/Nacho-website/static/css/main.f5267ff2.css.map",
-    "main.bc6e2a19.js.map": "/Nacho-website/static/js/main.bc6e2a19.js.map",
+    "main.0f443761.css.map": "/Nacho-website/static/css/main.0f443761.css.map",
+    "main.b8f2221c.js.map": "/Nacho-website/static/js/main.b8f2221c.js.map",
     "787.3c7466a7.chunk.js.map": "/Nacho-website/static/js/787.3c7466a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5267ff2.css",
-    "static/js/main.bc6e2a19.js"
+    "static/css/main.0f443761.css",
+    "static/js/main.b8f2221c.js"
   ]
 }
