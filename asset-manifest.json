@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nacho-website/static/css/main.c8ac57e1.css",
-    "main.js": "/Nacho-website/static/js/main.ad58e4e8.js",
+    "main.css": "/Nacho-website/static/css/main.9dbec995.css",
+    "main.js": "/Nacho-website/static/js/main.dab3d424.js",
     "static/js/787.3c7466a7.chunk.js": "/Nacho-website/static/js/787.3c7466a7.chunk.js",
     "static/media/tiroides.jpg": "/Nacho-website/static/media/tiroides.a4a7414a6c2ff2033191.jpg",
     "static/media/prostata.jpg": "/Nacho-website/static/media/prostata.2dc622f5a5bdbe078bab.jpg",
@@ -9,6 +9,7 @@
     "static/media/ecografia-pierna-2.png": "/Nacho-website/static/media/ecografia-pierna-2.76c6af362b1c4550b7f3.png",
     "static/media/ecografo.png": "/Nacho-website/static/media/ecografo.1e1e80c4fd1d7f9035a7.png",
     "static/media/ecografia-embarazada.png": "/Nacho-website/static/media/ecografia-embarazada.d06b3390c2f3c900bc96.png",
+    "static/media/4d-new.png": "/Nacho-website/static/media/4d-new.34340274202ec01f0afb.png",
     "static/media/02.jpg": "/Nacho-website/static/media/02.bc00e33ad07335d665a9.jpg",
     "static/media/main3.jpg": "/Nacho-website/static/media/main3.ddb54e4fe0afc3ad72f7.jpg",
     "static/media/ecografo1.png": "/Nacho-website/static/media/ecografo1.8fb1c0c633a90661f81b.png",
@@ -24,19 +25,21 @@
     "static/media/pancreas.jpg": "/Nacho-website/static/media/pancreas.dd1042516b133dfd6671.jpg",
     "static/media/dolor-de-espalda.png": "/Nacho-website/static/media/dolor-de-espalda.fbe876ab9768db95dd8c.png",
     "static/media/higado2.jpg": "/Nacho-website/static/media/higado2.aab7ff4fccdff2d80d9a.jpg",
+    "static/media/vision.png": "/Nacho-website/static/media/vision.4f95d71634111752ed0d.png",
     "static/media/whatsapp.png": "/Nacho-website/static/media/whatsapp.7707d93d8f690d81514d.png",
     "static/media/mamario.jpg": "/Nacho-website/static/media/mamario.9a5cf6ebee86618905de.jpg",
     "static/media/email.png": "/Nacho-website/static/media/email.5786a984da63ae59f5ac.png",
+    "static/media/mision.png": "/Nacho-website/static/media/mision.560a78d632d5442fdd37.png",
     "static/media/aDomicilio.png": "/Nacho-website/static/media/aDomicilio.4262ea82c2f089606a70.png",
     "static/media/calendario.png": "/Nacho-website/static/media/calendario.24c974015dcc7b624f54.png",
     "static/media/myfacebook.png": "/Nacho-website/static/media/myfacebook.137820a254b53afa2111.png",
     "index.html": "/Nacho-website/index.html",
-    "main.c8ac57e1.css.map": "/Nacho-website/static/css/main.c8ac57e1.css.map",
-    "main.ad58e4e8.js.map": "/Nacho-website/static/js/main.ad58e4e8.js.map",
+    "main.9dbec995.css.map": "/Nacho-website/static/css/main.9dbec995.css.map",
+    "main.dab3d424.js.map": "/Nacho-website/static/js/main.dab3d424.js.map",
     "787.3c7466a7.chunk.js.map": "/Nacho-website/static/js/787.3c7466a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8ac57e1.css",
-    "static/js/main.ad58e4e8.js"
+    "static/css/main.9dbec995.css",
+    "static/js/main.dab3d424.js"
   ]
 }
