@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nacho-website/static/css/main.44c83b7f.css",
-    "main.js": "/Nacho-website/static/js/main.1c5e3c82.js",
+    "main.css": "/Nacho-website/static/css/main.61d78436.css",
+    "main.js": "/Nacho-website/static/js/main.eafa234d.js",
     "static/js/787.3c7466a7.chunk.js": "/Nacho-website/static/js/787.3c7466a7.chunk.js",
     "static/media/tiroides.jpg": "/Nacho-website/static/media/tiroides.a4a7414a6c2ff2033191.jpg",
     "static/media/prostata.jpg": "/Nacho-website/static/media/prostata.2dc622f5a5bdbe078bab.jpg",
@@ -37,12 +37,12 @@
     "static/media/questions.png": "/Nacho-website/static/media/questions.e767c96c2aa30506daca.png",
     "static/media/myfacebook.png": "/Nacho-website/static/media/myfacebook.137820a254b53afa2111.png",
     "index.html": "/Nacho-website/index.html",
-    "main.44c83b7f.css.map": "/Nacho-website/static/css/main.44c83b7f.css.map",
-    "main.1c5e3c82.js.map": "/Nacho-website/static/js/main.1c5e3c82.js.map",
+    "main.61d78436.css.map": "/Nacho-website/static/css/main.61d78436.css.map",
+    "main.eafa234d.js.map": "/Nacho-website/static/js/main.eafa234d.js.map",
     "787.3c7466a7.chunk.js.map": "/Nacho-website/static/js/787.3c7466a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44c83b7f.css",
-    "static/js/main.1c5e3c82.js"
+    "static/css/main.61d78436.css",
+    "static/js/main.eafa234d.js"
   ]
 }
