@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nacho-website/static/css/main.61d78436.css",
-    "main.js": "/Nacho-website/static/js/main.eafa234d.js",
+    "main.css": "/Nacho-website/static/css/main.f4e771fa.css",
+    "main.js": "/Nacho-website/static/js/main.6ce5d3d2.js",
     "static/js/787.3c7466a7.chunk.js": "/Nacho-website/static/js/787.3c7466a7.chunk.js",
     "static/media/tiroides.jpg": "/Nacho-website/static/media/tiroides.a4a7414a6c2ff2033191.jpg",
     "static/media/prostata.jpg": "/Nacho-website/static/media/prostata.2dc622f5a5bdbe078bab.jpg",
@@ -13,6 +13,7 @@
     "static/media/ecografia-embarazada.png": "/Nacho-website/static/media/ecografia-embarazada.d06b3390c2f3c900bc96.png",
     "static/media/service.png": "/Nacho-website/static/media/service.7e3021c7ab39628f4f01.png",
     "static/media/02.jpg": "/Nacho-website/static/media/02.bc00e33ad07335d665a9.jpg",
+    "static/media/covid.PNG": "/Nacho-website/static/media/covid.49ecfed350dff585b54e.PNG",
     "static/media/ecografo1.png": "/Nacho-website/static/media/ecografo1.8fb1c0c633a90661f81b.png",
     "static/media/localizacion.png": "/Nacho-website/static/media/localizacion.54fde078d99fc4ce75e1.png",
     "static/media/pie.jpg": "/Nacho-website/static/media/pie.2aba14069e4dfe693172.jpg",
@@ -37,12 +38,12 @@
     "static/media/questions.png": "/Nacho-website/static/media/questions.e767c96c2aa30506daca.png",
     "static/media/myfacebook.png": "/Nacho-website/static/media/myfacebook.137820a254b53afa2111.png",
     "index.html": "/Nacho-website/index.html",
-    "main.61d78436.css.map": "/Nacho-website/static/css/main.61d78436.css.map",
-    "main.eafa234d.js.map": "/Nacho-website/static/js/main.eafa234d.js.map",
+    "main.f4e771fa.css.map": "/Nacho-website/static/css/main.f4e771fa.css.map",
+    "main.6ce5d3d2.js.map": "/Nacho-website/static/js/main.6ce5d3d2.js.map",
     "787.3c7466a7.chunk.js.map": "/Nacho-website/static/js/787.3c7466a7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61d78436.css",
-    "static/js/main.eafa234d.js"
+    "static/css/main.f4e771fa.css",
+    "static/js/main.6ce5d3d2.js"
   ]
 }
